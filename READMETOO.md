@@ -63,6 +63,10 @@ To run the project simply run the commands:
     yarn
     yarn start
 
+## References
+I had some problems when updating the chart on change and this linked helped me very much.
+- https://dev.to/vcanales/using-chart-js-in-a-function-component-with-react-hooks-246l
+
 ## Example inputs
 ### JSON:
 ```json
